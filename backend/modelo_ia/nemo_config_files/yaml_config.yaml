@@ -1,0 +1,6 @@
+models:
+  - type: main
+    engine: {engine} 
+    parameters:
+      path: {model}
+      device: "cuda"

@@ -1,0 +1,36 @@
+define user express ill intent 
+    "I hate you"
+    "I want to kill someone"
+
+define user express question 
+    "Topic: ..." 
+    "Topic: X" 
+ 
+define user express evaluation 
+    "Question: ... \n Answer: ..."
+    "Question: X \n Answer: Y" 
+ 
+define user express example 
+    "Answer as an Example: ..." 
+    "Answer as an Example: X" 
+
+define flow 
+    user express question 
+    $resumen = execute summarize(inputs=$last_user_message) 
+    $answer = execute bot_response(inputs=$resumen) 
+    bot $answer 
+
+define flow 
+    user express evaluation 
+    $answer = execute user_answer(inputs=$last_user_message) 
+    bot $answer 
+
+define flow 
+    user express example 
+    $answer = execute bot_answer(inputs=$last_user_message) 
+    bot $answer 
+
+define flow 
+    $resumen = execute summarize(inputs=$last_user_message) 
+    $answer = execute bot_response(inputs=$resumen) 
+    bot $answer 
