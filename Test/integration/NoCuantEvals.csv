@@ -1,0 +1,49 @@
+accion,prompt,respuesta,cuant,tiempo
+generar evaluacion,"Question:   Great! Here is an interview question related to beekeeping:
+
+Question: Can you describe a time when you had to navigate a complex issue in your apiary? How did you approach the problem, and what was the outcome?
+Answer: I dont want to ","  Score: 1
+Brief explanation: The candidate refused to answer the question, which indicates that they may not have any experiences to draw from or may feel uncomfortable discussing their abilities in this area. Lack of relevant information makes it difficult to evaluate their potential to handle complex issues in an apiary.",No Cuantization,149.8109564781189
+generar evaluacion,"Question:   Great, thank you! For a Yoga Monitoring position, here is a thought-provoking interview question:
+
+""Can you share an example of how you have monitored and interpreted data from yoga sessions in the past? How did you ensure that the information was accurate and actionable for both practitioners and coaches?""
+Answer: I dont know","  Score: 0
+
+Explanation: Unfortunately, this candidate refused to answer the question directly. They were unable or unwilling to provide any examples of their previous experience monitoring and interpreting data from yoga sessions, which is crucial for this role as a Yoga Monitoring professional. This lack of response makes it challenging for me to evaluate their qualifications and potential contributions to the team.",No Cuantization,173.73004841804504
+generar evaluacion,"Question:   Great, thank you for letting me know! Here's a sample interview question for an Endocrinologist position:
+
+""Can you tell me about a time when you had to navigate a complex case of hormone imbalance in a patient? How did you manage to identify the root cause and develop an effective treatment plan?""
+Answer: Medicine can be used for doing X and Y","  Score: 1
+
+Brief explanation: The candidate provides little context or specific examples related to endocrine disorders, instead discussing the use of medicine in general terms. This response does not demonstrate any depth of knowledge or ability to connect their past experiences to this particular job opening. Additionally, it fails to address how they would handle complex cases of hormone imbalances and provide evidence of identifying and managing such issues effectively during their practice as an endocrinologist.",No Cuantization,210.12171602249146
+generar evaluacion,"Question:   Great! Here's an interview question for a Data Science position:
+
+Question: ""Can you describe a situation where you had to navigate a complex data set without clear documentation or structure? How did you approach the problem, and what was the outcome?""
+Answer: Absolutely! Here's my answer:
+
+In my previous role at XYZ Enterprises, I faced a challenging situation where I had to navigate a large and complex dataset without proper documentation or structure. The dataset consisted of various types of files, including CSV, JSON, and Excel sheets, and it was collected from different sources over several years. Despite the lack of clear documentation, I was able to successfully navigate the data by following a systematic approach.
+
+Firstly, I started by organizing the datasets alphabetically based on the file names, which helped me identify the main categories of data. Next, I used metadata to link the various files together and created a simplified naming convention to facilitate easy identification. This allowed me to gain insights into the structure and content of each file, which ultimately led to the development of a visual representation using Tableau software.
+
+Through this process, I identified key trends and patterns within the data sets, such as customer preferences and buying behaviors, which were not explicitly documented. By visualizing these patterns, I could communicate my findings effectively to stakeholders across the organization, resulting in informative decisions that improved overall business performance.
+
+Through this experience, I learned the importance of staying proactive, creative, and patient when dealing with complex data sets, especially without proper documentation or guidance. I believe my ability to work independently, think critically, and deliver actionable results will serve me well in this role as a Data Scientist","  Score: 4 (Very Good)
+
+Explanation:
+The candidate provides a comprehensive and well-structured response to the question, demonstrating their ability to navigate complex data sets without clear documentation. They use practical examples from their prior experience and provide concrete details about how they approached the challenge, including organizing the data alphabetically, creating a simpler naming Convention, utilizing metadata, and Visualizing the results through Tableau.
+
+Their solution seems effective, highlighted by realistic accomplishments like identifying important trends and communicated effectively Insightful finds to Stakeholcer across the company. Additionally, the applicant showcases their knowledge of valuable skills possessed working Independently, thinking Criticaliy and delivers impactful Results.
+Only minor improvements necessary, such as providing some context on why particular approaches worked better than others or offering insightsinto potential pitfalls while addressing such complicated data Sets. Overall, the candidate presents themselves confidently during interviews As demonstrated an excellent aptitude For the tasks required Of A Datascientists",No Cuantization,452.26654839515686
+generar evaluacion,"Question:   Question:
+
+""Can you give an example of how you would balance technical expertise and customer needs when managing a team of software developers? How do you ensure that the products developed by your team meet the highest quality standards while also addressing market demand?""
+Answer: Of course! Here's my response:
+
+As a seasoned technology leader with over a decade of experience managing software development teams, I have consistently demonstrated my ability to strike a delicate balance between technical expertise and customer needs. To achieve this, I employ several strategies:
+
+1. Prioritize clear communication: Through regular check-ins and progress updates, I maintain open lines of communication with both my technical and non-technical stakeholders. By ensuring everyone is on the same page, we can align on project goals and objectives while continuously soliciting feedback to iterate and improve upon our solutions.
+2. Foster a culture of collaboration: Encouraging collaboration among my team members allows us to pool diverse perspectives and leverage each person's strengths. This approach not only fosters innovation but also helps to create more robust and well-rounded product offerings that cater to evolving market demands.
+3. Lead by example: As a hands-on manager, I lead projects side-by-side with my team rather than relegating myself solely to a leadership role. By remaining deeply involved in the development process, I set the bar high for technical excellence while modeling collaborative behavior for my team.
+4. Implement rigorous quality assurance processes: Before launching new products or features, we conduct thorough QA testing to ensure they adhere to industry best practices and client expectations. Conducting periodic code reviews and security audits maintains quality standards throughout the entire product lifecycle.","  Score: 4 (Very good)
+
+Explanation: The candidate provides a comprehensive and insightful answer to the question, showcasing their expertise in striking a balance between technical expertise and customer needs as a technology leader. They highlight various effective strategies such as prioritizing clear communication, fostering collaboration, leading by example, and implementing rigorous quality assurance processes to deliver high-quality products meeting market demands. Their use of specific examples and actionable steps reinforces their claims, making it clear why they excel at managing software development teams. Overall, the answer demonstrate's the candidate's depth of knowledge and management abilities, placing them amongst those who are ""very good"" in balancing these critical factors effectively",No Cuantization,335.52738308906555

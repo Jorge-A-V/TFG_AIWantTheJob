@@ -1,0 +1,16 @@
+accion,prompt,respuesta,cuant,tiempo
+generar pregunta,Bee keeping,"  Great! Here's an interview question related to Bee Keeping:
+
+Question: Can you describe a time when you encountered a challenging situation in your beehive, and how did you go about resolving it?",No Cuantization,134.74352192878723
+generar pregunta,Yoga monitoring,"  Great! Here is a sample interview question based on the topic of yoga monitoring:
+
+Question: Can you describe a time when you had to monitor the progress of multiple clients simultaneously in their yoga practices? How did you ensure that each client received personalized attention while also meeting your deadlines and maintaining quality standards? (Minimal Human Small Talk Commentary)",No Cuantization,284.2281138896942
+generar pregunta,Medicine expecialised in endocrinology,"  Great! For a Medicine specialization in Endocrinology, here's a thoughtful interview question:
+
+Question: ""Can you share an example of how you have worked effectively with patients who require complex medication regimens due to chronic hormone imbalances? How do you ensure these patients adhere to their treatment plans while minimizing potential side effects?""",No Cuantization,259.97467494010925
+generar pregunta,Data Science,"  Great! Here's an interview question for a Data Science position:
+
+Question: Can you describe a situation where you identified patterns in complex data that led to unexpected insights? How did you visualize and communicate these findings to stakeholders?",No Cuantization,264.5948894023895
+generar pregunta,Prdoduct Managing for a Coding Department,"  Great! Here is an interview question for a Product Manager position in a coding department:
+
+Question: Can you describe a time when you had to make a difficult technical decision that impacted a project's success? How did you approach the problem, and what was the outcome?",No Cuantization,251.60053372383118
